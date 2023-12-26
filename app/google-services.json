@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737266350791",
+    "project_id": "seguimientoderutas-f3e3d",
+    "storage_bucket": "seguimientoderutas-f3e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737266350791:android:07ca9bdd39fb71fe77dce2",
+        "android_client_info": {
+          "package_name": "com.example.seguimientoderutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIOCsLuJdtOAIjVelE4yh2kE1TiTOWj1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
